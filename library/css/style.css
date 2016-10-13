@@ -1520,13 +1520,13 @@ style a page via class
 LINK STYLES
 *********************/
 a, a:visited {
-  color: #d31145;
+  color: #203868;
   text-decoration: none;
   /* on hover */
   /* on click */
   /* mobile tap color */ }
   a:hover, a:focus, a:visited:hover, a:visited:focus {
-    color: #a90e37;
+    color: #152545;
     text-decoration: underline; }
   a:link, a:visited:link {
     /*
@@ -1664,7 +1664,7 @@ and more scalable.
       text-decoration: none;
       padding: 0.75em;
       text-align: center;
-      background-color: #62819a;
+      background-color: #203868;
       width: 50%;
       float: left;
       /*
